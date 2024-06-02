@@ -10,6 +10,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+
+        binding.tvAsd2
+
+
     }
     //ok
     //ok2
